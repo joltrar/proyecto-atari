@@ -17,8 +17,8 @@ Los fuentes serán editados en cualquier editor de texto, para este caso se util
 - [ ] [Mads Assembler](https://mads.atari8.info/)
 - [ ] [Altirra](https://www.virtualdub.org/altirra.html)
 - [ ] [Notepad++](https://notepad-plus-plus.org/)
-- [ ] [Archivo con Syntax highlighting para Notepad++](https://gitlab.com/joltrar/proyecto-atari/-/blob/main/userDefineLang_MADS.xml?ref_type=heads)
-- [ ] [Archivo de configuración de Notepad++ para compilar y ejecutar](https://gitlab.com/joltrar/proyecto-atari/-/blob/main/build_and_sun.bat)
+- [ ] [Archivo con Syntax highlighting para Notepad++]()
+- [ ] [Archivo de configuración de Notepad++ para compilar y ejecutar](https://github.com/joltrar/proyecto-atari/blob/main/build_and_sun.bat)
 
 
 ## Links
